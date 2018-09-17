@@ -6,4 +6,4 @@
 #start job from the directory it was submitted
 cd  $PBS_O_WORKDIR
 
-/opt/shared/openmpi-2.0.1/bin/mpicxx $MPI_HOSTS app
+/opt/shared/openmpi-2.0.1/bin/mpirun $MPI_HOSTS app
