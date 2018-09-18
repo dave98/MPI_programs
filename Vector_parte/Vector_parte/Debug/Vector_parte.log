@@ -1,0 +1,2 @@
+﻿  Vector_parte.cpp
+d:\dave\code\mpi_2018_2\mpi_programs\vector_parte\vector_parte\vector_parte.cpp(6): fatal error C1083: No se puede abrir el archivo incluir: 'mpi.h': No such file or directory
